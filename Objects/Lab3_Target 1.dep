@@ -1,0 +1,134 @@
+Dependencies for Project 'Lab3', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\tm4c123gh6pm.h)(0x5E7B72F8)()
+F (.\main.c)(0x61AD024C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/main.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdbool.h)(0x60355C2A)
+I (tm4c123gh6pm.h)(0x5E7B72F8)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\queue.h)(0x6151AA1A)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6E406)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1" -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rvmdk-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"TM4C123GH6PM SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_tm4c123.o)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x61AA42DF)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/system_tm4c123.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (C:\Users\dell\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\dell\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h)(0x60D43D42)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D43D42)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D43D42)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D43D42)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h)(0x60D43D42)
+I (C:\Users\dell\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Source\freertos_evr.c)(0x5F8D4A10)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/freertos_evr.o -MD)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\semphr.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\queue.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\event_groups.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\timers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\stream_buffer.h)(0x6151AA1A)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\list.c)(0x6151AA1A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/list.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdlib.h)(0x60355C30)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\port.c)(0x6151AA1A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/port.o -MD)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\MemMang\heap_1.c)(0x6151AA1A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/heap_1.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdlib.h)(0x60355C30)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\queue.c)(0x6151AA1A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/queue.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdlib.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\queue.h)(0x6151AA1A)
+F (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\tasks.c)(0x6151AA1A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w -I C:/ti/TivaWare_C_Series-2.1.4.178/driverlib -I C:/ti/TivaWare_C_Series-2.1.4.178-I./RTE/RTOS-I./RTE/_Target_1-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/CMSIS/RTOS2/FreeRTOS/Include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/include-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS-FreeRTOS/10.4.3/Source/portable/GCC/ARM_CM4F-IC:/Users/dell/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include-IC:/Users/dell/AppData/Local/Arm/Packs/Keil/TM4C_DFP/1.1.0/Device/Include/TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -D__FPU_PRESENT-o ./objects/tasks.o -MD)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdlib.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\string.h)(0x60355C30)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h)(0x6151AA1A)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stddef.h)(0x60355C30)
+I (D:\Keil_V5\ARM\ARMCLANG\include\stdint.h)(0x60355C30)
+I (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5F8D4A4C)
+I (RTE\_Target_1\RTE_Components.h)(0x617E3C85)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\timers.h)(0x6151AA1A)
+I (C:\Users\dell\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\stack_macros.h)(0x6151AA1A)
+F (RTE\RTOS\FreeRTOSConfig.h)(0x618FA1BB)()
